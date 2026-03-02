@@ -134,25 +134,24 @@
 
 ### \### Executive Summary
 
-### !\[Executive Summary](./screenshots/executive\_summary.png)
-
+![Executive Summary](./screenshots/executive_summary.png)
 ### 
 
 ### \### KPI Close View
 
-### !\[Executive KPIs](./screenshots/executive\_kpis\_close.png)
+ ![Executive KPIs](./screenshots/executive_kpis_close.png)
 
 ### 
 
 ### \### Revenue Trend
 
-### !\[Revenue Trend](./screenshots/revenue\_trend.png)
+ ![Revenue Trend](./screenshots/revenue_trend.png)
 
 ### 
 
 ### \### Net Profit Trend
 
-### !\[Net Profit Trend](./screenshots/net\_profit\_trend.png)
+ ![Net Profit Trend](./screenshots/net_profit_trend.png)
 
 ### 
 
@@ -244,31 +243,31 @@
 
 ### \### Forecast Page
 
-### !\[Forecast \& What-If](./screenshots/forecast\_whatif.png)
+ ![Forecast \& What-If](./screenshots/forecast_What-If.png)
 
 ### 
 
 ### \### Forecast Explanation
 
-### !\[Forecast Explanation](./screenshots/forecast\_explanation\_text.png)
+![Forecast Explanation](./screenshots/forecast_explanation_text.png)
 
 ### 
 
 ### \### Revenue MoM Chart
 
-### !\[MoM Chart](./screenshots/mom\_chart.png)
+ ![MoM Chart](./screenshots/mom_chart.png)
 
 ### 
 
 ### \### What-If Slider
 
-### !\[What-If Slider](./screenshots/whatif\_slider.png)
+ ![What-If Slider](./screenshots/whatif_slider.png)
 
 ### 
 
 ### \### Page Navigator
 
-### !\[Page Navigator](./screenshots/page\_navigator.png)
+![Page Navigator](./screenshots/page_navigator.png)
 
 ### 
 
@@ -569,4 +568,5 @@
 ### \- تطبيق نظام صلاحيات المستخدمين
 
 ### \- إعادة تصميم النموذج بهيكل Star Schema
+
 
